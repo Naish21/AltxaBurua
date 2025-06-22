@@ -42,7 +42,7 @@ Queremos crear un **acuerdo entre familias** para retrasar la entrega del primer
 
 Podéis comprometeros a **no entregar un smartphone** a vuestros hijos e hijas durante los próximos **6 o 12 meses** haciendo clic aquí:
 
-👉 [Acceder al pacto virtual](https://www.altxaburuabizkaia.eus/) / [Grupo de Whataspp](https://chat.whatsapp.com/IXInpRCHMkFLLXl84omVtZ)
+### 👉 [Pacto virtual (grupo de Whataspp)](https://chat.whatsapp.com/IXInpRCHMkFLLXl84omVtZ)
 
 ### 🤝 Pacto presencial
 
