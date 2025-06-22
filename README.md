@@ -8,8 +8,6 @@
 </head>
 <body>
 	<header>
-      <h1>ALTXA BURUA COLEGIO VIZCAYA</h1>
-      <p>Por una educación libre de móviles</p>
 	</header>
 	<main>
 	</main>
