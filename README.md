@@ -12,7 +12,6 @@
 	<main>
 	</main>
 	<footer>
-    	<p>CC BY-NC-SA 4.0 - 2025 (última actualización: 1 de abril de 2025)</p>
 	</footer>
 </body>
 </html>
@@ -69,3 +68,6 @@ Si os preocupa este tema y queréis saber más, os recomendamos visitar los sigu
 **No estáis solos. Juntas y juntos lo haremos más fácil.**
 
 ### ¡ALTXA BURUA!
+
+
+###### CC BY-NC-SA 4.0 - 2025 (última actualización: 22 de junio de 2025)
