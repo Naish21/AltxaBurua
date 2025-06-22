@@ -1,6 +1,3 @@
-# ALTXA BURUA - Colegio Vizcaya  
-*12 de junio de 2025*
-
 ## Kaixo, familias:
 
 Somos **ALTXA BURUA COLEGIO VIZCAYA**, un grupo de madres y padres comprometidos con el bienestar de nuestros hijos e hijas. Nuestros objetivos, alineados con los del *Movimiento Altxa Burua*, son:
