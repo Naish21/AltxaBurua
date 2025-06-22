@@ -18,7 +18,7 @@
 
 ## Kaixo, familias:
 
-Somos **ALTXA BURUA COLEGIO VIZCAYA**, un grupo de madres y padres comprometidos con el bienestar de nuestros hijos e hijas. Nuestros objetivos, alineados con los del *Movimiento Altxa Burua*, son:
+Somos **ALTXA BURUA COLEGIO VIZCAYA**, un grupo de madres y padres comprometidos con el bienestar de nuestros hijos e hijas. Nuestros objetivos, alineados con los del *[Movimiento Altxa Burua](https://www.altxaburuabizkaia.eus/)*, son:
 
 - Retrasar la entrega de dispositivos con acceso a internet a nuestros hijos, hijas y adolescentes.  
 - Convertir los centros educativos en espacios libres de smartphones.  
@@ -42,7 +42,7 @@ Queremos crear un **acuerdo entre familias** para retrasar la entrega del primer
 
 Podéis comprometeros a **no entregar un smartphone** a vuestros hijos e hijas durante los próximos **6 o 12 meses** haciendo clic aquí:
 
-👉 [Acceder al pacto virtual](https://www.altxaburuabizkaia.eus/)
+👉 [Acceder al pacto virtual](https://www.altxaburuabizkaia.eus/) / [Grupo de Whataspp](https://chat.whatsapp.com/IXInpRCHMkFLLXl84omVtZ)
 
 ### 🤝 Pacto presencial
 
@@ -65,7 +65,11 @@ Si os preocupa este tema y queréis saber más, os recomendamos visitar los sigu
 
 ## ¡Únete!
 
-**No estáis solos. Juntas y juntos lo haremos más fácil.**
+**No estáis solos. Juntas y juntos lo haremos más fácil:**
+
+Únete a nuestro [grupo de Whataspp](https://chat.whatsapp.com/IXInpRCHMkFLLXl84omVtZ)
+
+[![image](static/qr-altxa.png)](https://chat.whatsapp.com/IXInpRCHMkFLLXl84omVtZ)
 
 ### ¡ALTXA BURUA!
 
