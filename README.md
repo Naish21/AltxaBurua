@@ -1,12 +1,3 @@
----
-title: "ALTXA BURUA - Colegio Vizcaya"
-description: "Iniciativa de familias del Colegio Vizcaya para retrasar la entrega de smartphones a niños y adolescentes. Únete al movimiento Altxa Burua."
-date: 2025-06-12
-author: "ALTXA BURUA Colegio Vizcaya"
-keywords: ["Altxa Burua", "Colegio Vizcaya", "smartphones", "infancia", "adolescencia", "pacto familiar", "móviles", "educación digital", "salud mental"]
-lang: es
----
-
 # ALTXA BURUA - Colegio Vizcaya  
 *12 de junio de 2025*
 
